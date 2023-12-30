@@ -1,0 +1,13 @@
+{
+    "title": "MY-UBER-CLONE",
+    "showSample": "SHOW CODE SAMPLES",
+    "drawer": {
+        "home": "HOME",
+        "user_profile": "MANAGE ACCOUNT",
+        "trips_history": "TRIPS HISTORY"
+    },
+    "see_on_github": "SEE ON GITHUB",
+    "getPosition": "OBTAINING POSITION",
+    "positionNotAvailable": "CAN’T GET YOUR POSITION",
+    "error": "NOT AVAILABLE"
+}

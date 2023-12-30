@@ -1,0 +1,12 @@
+{
+    "rules": {
+        ".read": "now < 1924905600000",
+        ".write": "now < 1924905600000",
+        "trips": {
+            ".indexOn": [ "riderKey", "driverKey", "state" ]
+        },
+        "drivers": {
+            ".indexOn": [ "tripRequest" ]
+        }
+    }
+}

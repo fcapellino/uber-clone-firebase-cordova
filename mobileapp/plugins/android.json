@@ -1,0 +1,57 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-android-window-background": {
+      "WINDOW_BACKGROUND_COLOR": "#ffffff",
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-browsertab": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-flashlight": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "true",
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-googleplus": {
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-headercolor": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    },
+    "phonegap-nfc": {
+      "PACKAGE_NAME": "my.uber.clone.android.app"
+    }
+  },
+  "dependent_plugins": {}
+}

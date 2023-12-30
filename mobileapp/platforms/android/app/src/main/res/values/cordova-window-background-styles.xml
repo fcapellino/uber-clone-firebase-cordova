@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <style name="CordovaWindowBackgroundTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@color/cordova_window_background</item>
+    </style>
+</resources>
